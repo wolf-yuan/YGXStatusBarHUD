@@ -21,6 +21,11 @@
  将框架拖到项目文件夹下， 再将框架拖到项目的时候，千万不要勾选Copy items if need
  
  仅仅是传到guthub服务器，还需要传导cocapods服务器
+ issues 别人可以互动，提交评论
+ pull requests 别人可以提交代码给你
+ 
+ pod trunk register 178632811@qq.com 'wolf-yuan' --description=wolfdeMacBook-Pro
+ pod trunk me
  */
 
 @interface ViewController ()
