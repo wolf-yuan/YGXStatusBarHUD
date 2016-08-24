@@ -19,6 +19,8 @@
  把项目代码放到仓库里面去
  
  将框架拖到项目文件夹下， 再将框架拖到项目的时候，千万不要勾选Copy items if need
+ 
+ 仅仅是传到guthub服务器，还需要传导cocapods服务器
  */
 
 @interface ViewController ()
